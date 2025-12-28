@@ -12,8 +12,8 @@ window.addEventListener("scroll",()=>{
   });
 });
 
-// document.addEventListener("DOMContentLoaded",()=>{
-//   para.forEach((p,index)=>{
-//     p.style.opacity=0;
-//   });
-// }); 
+document.addEventListener("DOMContentLoaded",()=>{
+  para.forEach((p,index)=>{
+    p.style.opacity=0;
+  });
+}); 
